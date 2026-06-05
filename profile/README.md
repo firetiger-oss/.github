@@ -12,6 +12,7 @@ Open source projects from [Firetiger](https://firetiger.com).
 
 ### RPC
 
+- **[aip](https://github.com/firetiger-oss/aip)** - Go utilities for Google AIP-compliant services: AIP-160 filters → parameterized SQL, AIP-132 ordering.
 - **[connect-aip](https://github.com/firetiger-oss/connect-aip)** - Connect RPC → Google AIP REST codegen (Go/TS/Python plugins).
 - **[connect-sse](https://github.com/firetiger-oss/connect-sse)** - SSE transport for connect-go.
 
