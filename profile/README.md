@@ -9,6 +9,7 @@ Open source projects from [Firetiger](https://firetiger.com).
 - **[tigerblock](https://github.com/firetiger-oss/tigerblock)** - Go package to interact with cloud object storage providers.
 - **[go-duckfs](https://github.com/firetiger-oss/go-duckfs)** - DuckDB virtual file system based on `io/fs`. Mount any Go filesystem (cloud storage, HTTP, etc.) as a DuckDB backend.
 - **[concurrent](https://github.com/firetiger-oss/concurrent)** - Structured concurrency for Go. Composable pipelines, worker pools, and ordered result collection built on `iter.Seq`.
+- **[lambdahttp-go](https://github.com/firetiger-oss/lambdahttp-go)** - Bridge AWS Lambda and Go's `net/http`: serve Lambda events (ALB, API Gateway, Function URLs) with any `http.Handler`, or invoke Lambda as an `http.RoundTripper`.
 
 ### RPC
 
